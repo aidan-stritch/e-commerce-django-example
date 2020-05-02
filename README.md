@@ -1,3 +1,7 @@
+
+[![Build Status](https://travis-ci.com/aidan-stritch/e-commerce-django-example.svg?branch=master)](https://travis-ci.com/aidan-stritch/e-commerce-django-example)
+
+
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
 Welcome aidan-stritch,
